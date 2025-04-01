@@ -1,0 +1,10 @@
+.extinct-word {
+  text-decoration: dotted underline;
+  cursor: help;
+}
+
+.extinct-tooltip {
+  color: white;
+  pointer-events: none;
+  border-radius: 10px;
+}
